@@ -12,22 +12,26 @@ Checkout Times for User
 
 ![alt text]https://github.com/Susanaecorreia/bikesharing/blob/main/ChallengeDel21.pdf
 
- 
+
 Trips by Weekend for Each Hour
 
-ChallengeDel22
+![alt text]https://github.com/Susanaecorreia/bikesharing/blob/main/ChallengeDel22.pdf
+
 
 Checkout Times by Gender
 
-ChallengeDel23
+![alt text]https://github.com/Susanaecorreia/bikesharing/blob/main/ChallengeDel23.pdf
+
 
 Trips by Gender (Weekday per Hour)
 
-ChallengeDel24
+![alt text]https://github.com/Susanaecorreia/bikesharing/blob/main/ChallengeDel24.pdf
+
 
 Usertrips by Gender by Weekday
 
-ChallengeDel25
+![alt text]https://github.com/Susanaecorreia/bikesharing/blob/main/ChallengeDel25.pdf
+
 
 ## Summary: Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
 

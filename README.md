@@ -10,6 +10,8 @@ Purpose of this analysis is to perform a review of Citi Bike Data for New York C
 
 Checkout Times for User
 
+![alt text](https://github.com/Susanaecorreia/bikesharing/blob/main/iChallengeDel21
+
  
 Trips by Weekend for Each Hour
 
